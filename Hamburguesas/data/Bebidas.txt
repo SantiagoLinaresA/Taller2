@@ -1,0 +1,10 @@
+Colombiana;5000
+Seven Up;5000
+Coca-Cola;5000
+Uva;5000
+Manzana;5000
+Naranja;5000
+
+Fanta;5000
+agua cristal sin gas;5000
+agua cristal con gas;5000

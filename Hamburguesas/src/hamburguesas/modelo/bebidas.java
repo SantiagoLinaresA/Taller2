@@ -1,17 +1,13 @@
 package hamburguesas.modelo;
 
-
-public class Ingrediente {
-	
+public class bebidas {
 	
 	private String nombre;
-	
 	private int costoAdicional;
-	
 	private int id;
 	
 	
-	public Ingrediente(String nombre, int costoAdicional, int id) 
+	public bebidas(String nombre, int costoAdicional, int id) 
 	{
 		this.nombre = nombre;
 		this.costoAdicional = costoAdicional;
@@ -39,8 +35,5 @@ public class Ingrediente {
 	public void setId(int id) {
 		this.id=id;
 	}
+
 }
-
-
-
-
