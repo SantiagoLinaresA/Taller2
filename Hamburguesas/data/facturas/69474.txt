@@ -1,0 +1,14 @@
+RESTAURANTE EL CORRAL
+
+Cliente: Santiago Linares 
+Dirección del cliente: cll165B #13C-55
+ID Pedido: 69474
+ #Pedido: 1
+
+ PRODUCTOS
+	todoterreno		25000
+
+
+ Valor Neto pedido: 25000
+ Valor con IVA(19%) pedido: 4750
+ TOTAL: 29750
